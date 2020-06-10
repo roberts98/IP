@@ -2,3 +2,8 @@
 .screenshots
 .settings
 .objects
+*.js
+*.html
+*.css
+*.csv
+*.jpg
